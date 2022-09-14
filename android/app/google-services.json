@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133161286028",
+    "project_id": "tsa-29-firebase2",
+    "storage_bucket": "tsa-29-firebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133161286028:android:f8af9db44d670f3d94fea9",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133161286028-mur6tbi4f0489btcsdo3sqe6jh0ag1rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2D37em9_5LtAjV1QUIFBCCF3dWo6jx14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133161286028-mur6tbi4f0489btcsdo3sqe6jh0ag1rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
