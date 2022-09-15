@@ -32,3 +32,11 @@ Berikut Tampilan aplikasi
 
 Berikut Tampilan Penambahan user 
 ![Screenshot hello_world](images/hasilke3.png)
+
+# Langkah ke 5
+Menambahkan package cloud_firestore yang digunakan untuk mengirim pesan text ke firebase
+![Screenshot hello_world](images/hasilke4.jpeg)
+
+Berikut tampilan text yang berhasil dikirim
+![Screenshot hello_world](images/hasilke5.png)
+
