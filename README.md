@@ -40,3 +40,7 @@ Menambahkan package cloud_firestore yang digunakan untuk mengirim pesan text ke 
 Berikut tampilan text yang berhasil dikirim
 ![Screenshot hello_world](images/hasilke5.png)
 
+# Langkah ke 6
+Menambahkan fitur menampilkan pesan yang terkirim pada firebase
+![Screenshot hello_world](images/hasilke6.jpeg)
+
